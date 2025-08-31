@@ -133,8 +133,3 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-
-I can also create a **Word document version** of this README ready to download and upload to GitHub if you want. Do you want me to do that?
-
-```
