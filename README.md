@@ -55,11 +55,13 @@ The system combines **control theory, simulation, and embedded programming** to 
   
 * **Serial Monitor logging** for debugging and analysis
 
-** **1. Open The Monitor**
+**1. Open The Monitor**
+
 ![Alt text](OpenSerialMonitor.png)
 
 
-** **2. Monitor Logs**
+**2. Monitor Logs**
+
 ![Alt text](SerialMonitor.png)
   
 * Exportable **firmware (HEX file)** for easy deployment on Arduino
