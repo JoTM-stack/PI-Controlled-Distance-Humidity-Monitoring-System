@@ -40,7 +40,7 @@ The system combines **control theory, simulation, and embedded programming** to 
   
 * **Temperature and humidity monitoring** with DHT22 sensor
   
-![Alt text](DT22Sensor.png)
+![Alt text](DHT22Sensor.png)
   
 * **Motor control** with safety thresholds
 
