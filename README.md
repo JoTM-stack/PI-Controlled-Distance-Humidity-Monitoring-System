@@ -151,7 +151,7 @@ The system combines **control theory, simulation, and embedded programming** to 
   
 ![Alt text](FirmwareSelect.png)
   
-  vi. Confirm Firmware IS Loaded
+  vi. Confirm Firmware Is Loaded
 
 ![Alt text](FirmwareConfirmation.png)
   
