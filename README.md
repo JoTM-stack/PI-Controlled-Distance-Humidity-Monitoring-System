@@ -133,7 +133,7 @@ The system combines **control theory, simulation, and embedded programming** to 
   
 ![Alt text](GridSimulIDE.png)
   
-  ii. Load Schema (Drag and Drop the micr_project.sim1 on the Grid)
+  ii. Load Schema (Drag and Drop the micro_project.sim1 on the Grid)
 
 ![Alt text](LoadSchema.png)
   
@@ -151,7 +151,7 @@ The system combines **control theory, simulation, and embedded programming** to 
   
   vi. Confirm Firmware Loaded
 
-![Alt text](FirmWareConfirmation.png)
+![Alt text](FirmwareConfirmation.png)
   
 * Observe how the motor, LEDs, and sensors interact virtually before physical implementation.
 
