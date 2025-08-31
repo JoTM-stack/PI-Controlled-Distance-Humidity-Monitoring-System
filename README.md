@@ -1,4 +1,4 @@
-# PID-Based Arduino Control System
+# PI-Based Arduino Control System (Water Tank Level)
 
 An Arduino-based control system that uses a **PI controller** for distance regulation with ultrasonic sensing, monitors environmental conditions with a **DHT22 sensor**, and adjusts motor operation based on safety thresholds. Real-time feedback is provided through LEDs, an LCD display, and the Serial Monitor.
 
