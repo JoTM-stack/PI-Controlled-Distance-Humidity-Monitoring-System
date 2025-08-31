@@ -112,7 +112,7 @@ The system combines **control theory, simulation, and embedded programming** to 
    * `DHT.h` for DHT22
    * `LiquidCrystal_I2C.h` (if using I2C LCD)
 4. Compile and upload to your Arduino.
-5. (Optional) Export the `.hex` firmware for simulation in **SimulIDE**.
+5. Export the `.hex` firmware from ArduinoIDE for simulation in **SimulIDE**.
 
 ---
 
