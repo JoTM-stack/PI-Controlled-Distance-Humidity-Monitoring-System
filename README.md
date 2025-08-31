@@ -1,2 +1,2 @@
 # PI-Controlled-Distance-Humidity-Monitoring-System
-Arduino-based PI control system for distance regulation with humidity monitoring. Derived mathematical model, simulated PI in MATLAB, tuned controller parameters, and implemented firmware tested in SimulIDE.
+Arduino program that regulates distance using a PI controller with ultrasonic sensing, monitors temperature and humidity via DHT22, controls a motor based on safety thresholds, and provides real-time feedback through LEDs, LCD, and Serial Monitor.
