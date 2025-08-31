@@ -52,7 +52,7 @@ The system combines **control theory, simulation, and embedded programming** to 
   
 * **LCD display** for real-time status updates
 
-![Alt text](LCDt.png)
+![Alt text](LCD.png)
   
 * **Serial Monitor logging** for debugging and analysis
 
@@ -60,7 +60,7 @@ The system combines **control theory, simulation, and embedded programming** to 
 ![Alt text](OpenSerialMonitor.png)
 
 
-**2. Open The Monitor**
+**2. Monitor Logs**
 ![Alt text](SerialMonitor.png)
   
 * Exportable **firmware (HEX file)** for easy deployment on Arduino
