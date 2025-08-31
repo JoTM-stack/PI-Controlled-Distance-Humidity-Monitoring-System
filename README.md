@@ -16,7 +16,6 @@ An Arduino-based control system that uses a **PI controller** for distance regul
 8. [Simulation](#simulation)
 9. [Project Workflow](#project-workflow)
 10. [Future Improvements](#future-improvements)
-11. [License](#license)
 
 ---
 
@@ -163,7 +162,7 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 1. **Derive mathematical model** of the system.
 2. **Simulate in MATLAB** to design PID controller.
-3. **Tune parameters** (Kp, Ki, Kd).
+3. **Tune parameters** (Kp, Ki).
 4. **Implement in Arduino code**.
 5. **Export HEX file** and load into **SimulIDE**.
 6. **Run full system simulation** before hardware testing.
@@ -179,7 +178,4 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
