@@ -129,29 +129,29 @@ The system combines **control theory, simulation, and embedded programming** to 
 * Use **MATLAB** to test and tune the PID parameters before deployment.
 * Load the Arduino HEX firmware into **SimulIDE** for circuit simulation.
   **How To:**
-  1. Open SimulIDE.exe
+  i. Open SimulIDE.exe
   
 ![Alt text](GridSimulIDE.png)
   
-  3. Load Schema (Drag and Drop the micr_project.sim1 on the Grid)
+  ii. Load Schema (Drag and Drop the micr_project.sim1 on the Grid)
 
-![Alt text](IndicatorLEDs.png)
+![Alt text](LoadSchema.png)
   
-  5. Loaded Schema
+  iii. Loaded Schema
   
-![Alt text](IndicatorLEDs.png)
+![Alt text](LoadedSchema.png)
   
-  7. Load Firmware
+  iv. Load Firmware
 
-![Alt text](IndicatorLEDs.png)
+![Alt text](LoadFirmware.png)
   
-  9. Select Firmware (Select the Firmware.hex file)
+  v. Select Firmware (Select the Firmware.hex file)
   
-![Alt text](IndicatorLEDs.png)
+![Alt text](FirmwareSelect.png)
   
-  11. Confirm Firmware Loaded
+  vi. Confirm Firmware Loaded
 
-![Alt text](IndicatorLEDs.png)
+![Alt text](FirmWareConfirmation.png)
   
 * Observe how the motor, LEDs, and sensors interact virtually before physical implementation.
 
