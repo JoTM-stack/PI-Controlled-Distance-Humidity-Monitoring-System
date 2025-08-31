@@ -6,7 +6,7 @@ An Arduino-based control system that uses a **PI controller** for distance regul
 
 ## 📑 Table of Contents
 
-1. [📖 Overview](#overview)
+1. [Overview](#overview)
 2. [Features](#features)
 3. [System Architecture](#system-architecture)
 4. [Hardware Requirements](#hardware-requirements)
