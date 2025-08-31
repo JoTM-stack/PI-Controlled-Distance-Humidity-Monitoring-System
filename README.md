@@ -35,11 +35,34 @@ The system combines **control theory, simulation, and embedded programming** to 
 ## ⚡ Features
 
 * PI controller for **distance regulation** using an **HC-SR04 ultrasonic sensor**
+
+![Alt text](HC-SR04_UltrasonicSensor.png)
+  
 * **Temperature and humidity monitoring** with DHT22 sensor
+  
+![Alt text](HT22Sensor.png)
+  
 * **Motor control** with safety thresholds
+
+![Alt text](MotorControl.png)
+  
 * **LED indicators** for system states and warnings
+
+![Alt text](IndicatorLEDs.png)
+  
 * **LCD display** for real-time status updates
+
+![Alt text](LCDt.png)
+  
 * **Serial Monitor logging** for debugging and analysis
+
+**1. Open The Monitor**
+![Alt text](OpenSerialMonitor.png)
+
+
+**2. Open The Monitor**
+![Alt text](SerialMonitor.png)
+  
 * Exportable **firmware (HEX file)** for easy deployment on Arduino
 
 ---
