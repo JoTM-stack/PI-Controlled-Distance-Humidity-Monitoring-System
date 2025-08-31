@@ -19,8 +19,7 @@ An Arduino-based control system that uses a **PI controller** for distance regul
 
 ---
 
-##Overview
-## 📖  
+## Overview 
 
 This project demonstrates the implementation of a **PID control system** in an embedded environment.
 
