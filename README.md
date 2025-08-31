@@ -32,7 +32,6 @@ The system combines **control theory, simulation, and embedded programming** to 
 ---
 
 ## Features 
-⚡
 
 * PI controller for **distance regulation** using an **HC-SR04 ultrasonic sensor**
 
@@ -67,7 +66,7 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 [ Ultrasonic Sensor ] → [ PI Controller ] → [ Motor Driver ]
@@ -77,7 +76,7 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 ---
 
-## 🔧 Hardware Requirements
+## Hardware Requirements
 
 * Arduino Uno (or compatible board)
 * HC-SR04 Ultrasonic Sensor
@@ -89,7 +88,7 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 ---
 
-## 💻 Software Requirements
+## Software Requirements
 
 * [MATLAB](https://www.mathworks.com/) (for PID tuning & simulation)
 * [Arduino IDE](https://www.arduino.cc/en/software) (for coding & HEX export)
@@ -97,7 +96,7 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone this repository:
 
@@ -115,7 +114,7 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 ---
 
-## 🚀 Usage
+## Usage
 
 * Place the ultrasonic sensor in front of the object to measure distance.
 * The motor will adjust speed/direction based on the PI controller’s output.
@@ -124,7 +123,7 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 ---
 
-## 🧪 Simulation
+## Simulation
 
 * Use **MATLAB** to test and tune the PID parameters before deployment.
 * Load the Arduino HEX firmware into **SimulIDE** for circuit simulation.
@@ -159,7 +158,7 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. **Derive mathematical model** of the system.
 2. **Simulate in MATLAB** to design PID controller.
@@ -170,7 +169,7 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 ---
 
-## 🚧 Future Improvements
+## Future Improvements
 
 * Implement full **PID control** (with derivative action).
 * Add support for **multiple sensors** and advanced safety logic.
