@@ -31,7 +31,8 @@ The system combines **control theory, simulation, and embedded programming** to 
 
 ---
 
-## Features ## ⚡
+## Features 
+⚡
 
 * PI controller for **distance regulation** using an **HC-SR04 ultrasonic sensor**
 
