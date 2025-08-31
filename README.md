@@ -129,7 +129,8 @@ The system combines **control theory, simulation, and embedded programming** to 
 * Use **MATLAB** to test and tune the PID parameters before deployment.
 * Load the Arduino HEX firmware into **SimulIDE** for circuit simulation.
 
-**How To:**
+**How To Run:**
+
   i. Open SimulIDE.exe
   
 ![Alt text](GridSimulIDE.png)
