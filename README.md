@@ -4,7 +4,7 @@ An Arduino-based control system that uses a **PI controller** for distance regul
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 1. [Overview](#overview)
 2. [Features](#features)
